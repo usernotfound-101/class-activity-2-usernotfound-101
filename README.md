@@ -1,4 +1,5 @@
 # class-activity-2-usernotfound-101
+**Activity was submitted 20 mins late as i didn't have laptop with me at the time**
 Here are a list of 5 errors I found in code:
 1. L1 no colon ":" after function definition
 2. L6 its not "\*\*\*" only '\*' for multiplication, and '\*\*' for exponentiation
